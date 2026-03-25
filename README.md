@@ -32,8 +32,8 @@ D-series documents are **demonstrations, not derivations**. The full theoretical
 | Doc | Title | Domain | Examples | Status |
 |-----|-------|--------|----------|--------|
 | D3 | Worked Examples in Imaging | Imaging | 6 (3 initial) |  **Complete** |
-| D4 | Worked Examples in Illumination | Illumination | 5 (3 initial) | To be written |
-| D5 | Worked Examples in Sensing | Sensing | 5 (3 initial) | To be written |
+| D4 | Worked Examples in Illumination | Illumination | 5 (3 initial) | **Complete** |
+| D5 | Worked Examples in Sensing | Sensing | 5 (3 initial) | **Complete** |
 | D6 | Worked Examples in Communication | Communication | 5 (3 initial) |  **Complete** |
 
 ---
